@@ -1,1 +1,3 @@
-the program returns a value for a viod function and there are many argument to the function print_msg
+the function name in the function prototype(print_msg) is different from the function name in the function header(print_msq)
+
+the program returns a value for a void function and there are many argument to the function print_msg
